@@ -83,4 +83,4 @@ We welcome contributions to GIS. To contribute:
 
 ## Acknowledgments
 
-- The GIS-BEL project is built upon the contributions of open-source geospatial communities and libraries.
+- The GIS project is built upon the contributions of open-source geospatial communities and libraries.
