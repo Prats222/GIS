@@ -1,11 +1,11 @@
-# GIS
+# Object proximity alert system using GIS
 
 
-GIS is an open-source Geographic Information System (GIS) project that leverages various technologies to create interactive maps and geospatial applications. It is built using OpenLayers, GeoServer, JavaScript, Bootstrap, HTML, jQuery, and MongoDB.
+"Object proximity alert system using GIS" is an open-source Geographic Information System (GIS) project that leverages various technologies to create interactive maps and geospatial applications. It is built using OpenLayers, GeoServer, JavaScript, Bootstrap, HTML, jQuery, and MongoDB.
 
 ## Overview
 
-GISis designed to provide powerful geospatial capabilities, allowing users to visualize, analyze, and interact with geographic data. Whether you need to display maps, perform spatial analysis, or manage geospatial data, GIS-BEL is a versatile solution.
+GIS is designed to provide powerful geospatial capabilities, allowing users to visualize, analyze, and interact with geographic data. Whether you need to display maps, perform spatial analysis, or manage geospatial data, GIS is a versatile solution.
 ![Screenshot (125)](https://github.com/Prats222/GIS-BEL/assets/126672828/75bf4d65-d930-496d-8f64-6b375935d77d)
 ![Screenshot (126)](https://github.com/Prats222/GIS-BEL/assets/126672828/c562e5a6-f8a3-4028-8155-253e0d80d292)
 ![Screenshot (127)](https://github.com/Prats222/GIS-BEL/assets/126672828/7cacd7c2-dd25-451c-9e02-df5fc3373f26)
@@ -53,13 +53,13 @@ cd GIS
 
 3. Deploy the application to your Tomcat server.
 
-4. Access the GIS-BEL application through your web browser at `http://localhost:8080/GIS` (or the appropriate address and port).
+4. Access the GIS application through your web browser at `http://localhost:8080/GIS` (or the appropriate address and port).
 
 ## Usage
 
 To use GIS, follow these steps:
 
-1. Access the GIS-BEL application through your web browser.
+1. Access the GIS application through your web browser.
 
 2. Explore the map, interact with layers, and perform spatial queries.
 
