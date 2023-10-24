@@ -5,7 +5,7 @@ GIS is an open-source Geographic Information System (GIS) project that leverages
 
 ## Overview
 
-GIS-BEL is designed to provide powerful geospatial capabilities, allowing users to visualize, analyze, and interact with geographic data. Whether you need to display maps, perform spatial analysis, or manage geospatial data, GIS-BEL is a versatile solution.
+GISis designed to provide powerful geospatial capabilities, allowing users to visualize, analyze, and interact with geographic data. Whether you need to display maps, perform spatial analysis, or manage geospatial data, GIS-BEL is a versatile solution.
 ![Screenshot (125)](https://github.com/Prats222/GIS-BEL/assets/126672828/75bf4d65-d930-496d-8f64-6b375935d77d)
 ![Screenshot (126)](https://github.com/Prats222/GIS-BEL/assets/126672828/c562e5a6-f8a3-4028-8155-253e0d80d292)
 ![Screenshot (127)](https://github.com/Prats222/GIS-BEL/assets/126672828/7cacd7c2-dd25-451c-9e02-df5fc3373f26)
@@ -17,7 +17,7 @@ GIS-BEL is designed to provide powerful geospatial capabilities, allowing users 
 
 ## Technologies Used
 
-- **OpenLayers:** GIS-BEL uses OpenLayers to render interactive maps and provide a seamless mapping experience.
+- **OpenLayers:** GIS uses OpenLayers to render interactive maps and provide a seamless mapping experience.
 
 - **GeoServer:** GeoServer serves as the back-end geospatial server, enabling data publication and sharing through standardized web services.
 
@@ -42,22 +42,22 @@ GIS-BEL is designed to provide powerful geospatial capabilities, allowing users 
 
 ## Installation
 
-To run GIS-BEL locally with Tomcat and GeoServer, follow these steps:
+To run GIS locally with Tomcat and GeoServer, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/Prats222/GIS-BEL.git
-cd GIS-BEL
+git clone https://github.com/Prats222/GIS.git
+cd GIS
 
 
 2. Configure your Tomcat and GeoServer settings as needed.
 
 3. Deploy the application to your Tomcat server.
 
-4. Access the GIS-BEL application through your web browser at `http://localhost:8080/GIS-BEL` (or the appropriate address and port).
+4. Access the GIS-BEL application through your web browser at `http://localhost:8080/GIS` (or the appropriate address and port).
 
 ## Usage
 
-To use GIS-BEL, follow these steps:
+To use GIS, follow these steps:
 
 1. Access the GIS-BEL application through your web browser.
 
@@ -69,7 +69,7 @@ To use GIS-BEL, follow these steps:
 
 ## Contributing
 
-We welcome contributions to GIS-BEL. To contribute:
+We welcome contributions to GIS. To contribute:
 
 1. Fork the repository.
 
