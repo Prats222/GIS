@@ -1,7 +1,7 @@
-# GIS-BEL
-# GIS-BEL
+# GIS
 
-GIS-BEL is an open-source Geographic Information System (GIS) project that leverages various technologies to create interactive maps and geospatial applications. It is built using OpenLayers, GeoServer, JavaScript, Bootstrap, HTML, jQuery, and MongoDB.
+
+GIS is an open-source Geographic Information System (GIS) project that leverages various technologies to create interactive maps and geospatial applications. It is built using OpenLayers, GeoServer, JavaScript, Bootstrap, HTML, jQuery, and MongoDB.
 
 ## Overview
 
